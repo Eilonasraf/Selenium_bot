@@ -1,0 +1,249 @@
+1652804054862	geckodriver	INFO	Listening on 127.0.0.1:58369
+1652804057928	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58370" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\eilon\\AppData\\Local\\Temp\\rust_mozprofile3Qy3UF"
+1652804058767	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\eilon\\AppData\\Local\\Temp\\rust_mozprofile3Qy3UF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58370/devtools/browser/8a546cdf-c693-4878-8fef-146c220b5033
+1652804060192	Marionette	INFO	Listening on port 58392
+Read port: 58392
+1652804060312	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652804071682	Marionette	INFO	Stopped listening on port 58392
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652804544080	geckodriver	INFO	Listening on 127.0.0.1:58492
+1652804547182	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58493" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\eilon\\AppData\\Local\\Temp\\rust_mozprofileFg9kuV"
+1652804547612	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\eilon\\AppData\\Local\\Temp\\rust_mozprofileFg9kuV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58493/devtools/browser/334397d3-12b4-4098-b6f8-1907d9942f1a
+1652804549027	Marionette	INFO	Listening on port 58513
+Read port: 58513
+1652804549064	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1652805520539	Marionette	INFO	Stopped listening on port 58513
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+" "localhost" "-no-remote" "-profile" "C:\\Users\\eilon\\AppData\\Local\\Temp\\rust_mozprofileanUaNe"
+1652804634930	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\eilon\\AppData\\Local\\Temp\\rust_mozprofileanUaNe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58572/devtools/browser/476c5d12-9d78-46e1-bfd5-d42bed7d0f7b
+1652804636166	Marionette	INFO	Listening on port 58592
+Read port: 58592
+1652804636217	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652805096049	geckodriver	INFO	Listening on 127.0.0.1:58725
+1652805099137	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58726" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\eilon\\AppData\\Local\\Temp\\rust_mozprofile3L7xlX"
+1652805099585	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\eilon\\AppData\\Local\\Temp\\rust_mozprofile3L7xlX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58726/devtools/browser/499c9f0b-e4b0-4584-b9ad-3668872abc44
+1652805100944	Marionette	INFO	Listening on port 58745
+Read port: 58745
+1652805101037	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652805509982	Marionette	INFO	Stopped listening on port 58745
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "58832" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\eilon\\AppData\\Local\\Temp\\rust_mozprofileE2RUnY"
+1652805253708	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\eilon\\AppData\\Local\\Temp\\rust_mozprofileE2RUnY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58832/devtools/browser/a79969f4-0fa9-46b8-b84b-21f9a1204002
+1652805254856	Marionette	INFO	Listening on port 58850
+Read port: 58850
+1652805254923	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652805509257	Marionette	INFO	Stopped listening on port 58850
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652805523087	geckodriver	INFO	Listening on 127.0.0.1:58946
+1652805526157	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58947" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\eilon\\AppData\\Local\\Temp\\rust_mozprofilewKfghs"
+1652805526626	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\eilon\\AppData\\Local\\Temp\\rust_mozprofilewKfghs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58947/devtools/browser/a5f310e4-b555-4ceb-ab0c-76a7d10b49bc
+1652805527987	Marionette	INFO	Listening on port 58967
+Read port: 58967
+1652805528049	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652805615330	Marionette	INFO	Stopped listening on port 58967
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "59015" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\eilon\\AppData\\Local\\Temp\\rust_mozprofilekmJvTH"
+1652805540114	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\eilon\\AppData\\Local\\Temp\\rust_mozprofilekmJvTH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59015/devtools/browser/1b909364-eeeb-4be7-a323-580ccbf5a9df
+1652805541366	Marionette	INFO	Listening on port 59036
+Read port: 59036
+1652805541471	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652805577548	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1652805690554	Marionette	INFO	Stopped listening on port 59036
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652805692247	geckodriver	INFO	Listening on 127.0.0.1:59117
+1652805694403	geckodriver	INFO	Listening on 127.0.0.1:59125
+1652805697476	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59126" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\eilon\\AppData\\Local\\Temp\\rust_mozprofileV6wz6u"
+1652805697848	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\eilon\\AppData\\Local\\Temp\\rust_mozprofileV6wz6u\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59126/devtools/browser/c11a97ce-a8ee-4a3d-b01f-dd1d0f7c33f8
+1652805699070	Marionette	INFO	Listening on port 59144
+Read port: 59144
+1652805699147	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652805826031	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1652806426739	Marionette	INFO	Stopped listening on port 59144
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652806428358	geckodriver	INFO	Listening on 127.0.0.1:49361
+1652806430453	geckodriver	INFO	Listening on 127.0.0.1:49369
+1652806433559	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49370" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\eilon\\AppData\\Local\\Temp\\rust_mozprofileLTiniJ"
+1652806433993	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\eilon\\AppData\\Local\\Temp\\rust_mozprofileLTiniJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49370/devtools/browser/6acfa0b7-b0aa-470a-98e3-7c30e1855f0a
+1652806435665	Marionette	INFO	Listening on port 49389
+Read port: 49389
+1652806435785	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652806680548	geckodriver	INFO	Listening on 127.0.0.1:49702
+1652806683636	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49703" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\eilon\\AppData\\Local\\Temp\\rust_mozprofile2eQXVO"
+1652806684044	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\eilon\\AppData\\Local\\Temp\\rust_mozprofile2eQXVO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49703/devtools/browser/397326e4-1991-44bb-b166-4003de187fd6
+1652806685255	Marionette	INFO	Listening on port 49721
+Read port: 49721
+1652806685296	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1652865202146	Marionette	INFO	Stopped listening on port 49721
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+" "localhost" "-no-remote" "-profile" "C:\\Users\\eilon\\AppData\\Local\\Temp\\rust_mozprofileh6KqUF"
+1652806762043	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\eilon\\AppData\\Local\\Temp\\rust_mozprofileh6KqUF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49816/devtools/browser/2d2d1889-c19c-4adf-993f-2ae37e41cb75
+1652806763397	Marionette	INFO	Listening on port 49848
+Read port: 49848
+1652806763480	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.naturalia.fr/static/version1651738533/_cache/merged/914e8163e89301de66e87fc10cfd03de.min.js line 184 > Function, line 3: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://www.naturalia.fr/static/version1651738533/_cache/merged/914e8163e89301de66e87fc10cfd03de.min.js line 184 > Function, line 3: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1652806789223	geckodriver	INFO	Listening on 127.0.0.1:49929
+1652806792282	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49930" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\eilon\\AppData\\Local\\Temp\\rust_mozprofileAeKNLd"
+1652806792716	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\eilon\\AppData\\Local\\Temp\\rust_mozprofileAeKNLd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49930/devtools/browser/7bf088d9-0430-4784-94fb-c186c3a85ed2
+1652806794046	Marionette	INFO	Listening on port 49949
+Read port: 49949
+1652806794161	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652807499905	geckodriver	INFO	Listening on 127.0.0.1:50205
+1652807503001	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50206" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\eilon\\AppData\\Local\\Temp\\rust_mozprofileeibeWi"
+1652807503477	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\eilon\\AppData\\Local\\Temp\\rust_mozprofileeibeWi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50206/devtools/browser/3e5e0eca-7c3f-4d10-aeed-a4847eb48c0c
+1652807505073	Marionette	INFO	Listening on port 50225
+Read port: 50225
+1652807505196	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652807509970	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1652865200357	Marionette	INFO	Stopped listening on port 50225
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+" "localhost" "-no-remote" "-profile" "C:\\Users\\eilon\\AppData\\Local\\Temp\\rust_mozprofile6JprSU"
+1652807621076	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\eilon\\AppData\\Local\\Temp\\rust_mozprofile6JprSU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50291/devtools/browser/635a5c57-8d08-49a3-bc3b-61205c23504e
+1652807622600	Marionette	INFO	Listening on port 50312
+Read port: 50312
+1652807622676	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.naturalia.fr/static/version1651738533/_cache/merged/914e8163e89301de66e87fc10cfd03de.min.js line 184 > Function, line 3: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1652865198866	Marionette	INFO	Stopped listening on port 50312
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\eilon\\AppData\\Local\\Temp\\rust_mozprofilepH80qQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50579/devtools/browser/61c4fb81-277e-481a-b48a-a57ab0380d41
+1652808115453	Marionette	INFO	Listening on port 50598
+Read port: 50598
+1652808115632	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652808121032	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1652808692327	geckodriver	INFO	Listening on 127.0.0.1:50723
+1652808695420	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50724" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\eilon\\AppData\\Local\\Temp\\rust_mozprofileXvOKTo"
+1652808695868	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\eilon\\AppData\\Local\\Temp\\rust_mozprofileXvOKTo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50724/devtools/browser/2fb93e9b-2de5-463e-a40c-dc64ee0ff8b3
+1652808697437	Marionette	INFO	Listening on port 50745
+Read port: 50745
+1652808697531	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.naturalia.fr/static/version1651738533/_cache/merged/914e8163e89301de66e87fc10cfd03de.min.js line 184 > Function, line 3: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://www.naturalia.fr/static/version1651738533/_cache/merged/914e8163e89301de66e87fc10cfd03de.min.js line 184 > Function, line 3: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://www.naturalia.fr/static/version1651738533/_cache/merged/914e8163e89301de66e87fc10cfd03de.min.js line 184 > Function, line 3: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://www.naturalia.fr/static/version1651738533/_cache/merged/914e8163e89301de66e87fc10cfd03de.min.js line 184 > Function, line 3: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://www.naturalia.fr/static/version1651738533/_cache/merged/914e8163e89301de66e87fc10cfd03de.min.js line 184 > Function, line 3: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://www.naturalia.fr/static/version1651738533/_cache/merged/914e8163e89301de66e87fc10cfd03de.min.js line 184 > Function, line 3: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://www.naturalia.fr/static/version1651738533/_cache/merged/914e8163e89301de66e87fc10cfd03de.min.js line 184 > Function, line 3: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://www.naturalia.fr/static/version1651738533/_cache/merged/914e8163e89301de66e87fc10cfd03de.min.js line 184 > Function, line 3: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://www.naturalia.fr/static/version1651738533/_cache/merged/914e8163e89301de66e87fc10cfd03de.min.js line 184 > Function, line 3: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://www.naturalia.fr/static/version1651738533/_cache/merged/914e8163e89301de66e87fc10cfd03de.min.js line 184 > Function, line 3: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://www.naturalia.fr/static/version1651738533/_cache/merged/914e8163e89301de66e87fc10cfd03de.min.js line 184 > Function, line 3: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://www.naturalia.fr/static/version1651738533/_cache/merged/914e8163e89301de66e87fc10cfd03de.min.js line 184 > Function, line 3: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://www.naturalia.fr/static/version1651738533/_cache/merged/914e8163e89301de66e87fc10cfd03de.min.js line 184 > Function, line 3: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://www.naturalia.fr/static/version1651738533/_cache/merged/914e8163e89301de66e87fc10cfd03de.min.js line 184 > Function, line 3: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://www.naturalia.fr/static/version1651738533/_cache/merged/914e8163e89301de66e87fc10cfd03de.min.js line 184 > Function, line 3: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://livechat.alc-crm.com/api/v1/polyfills.ce2c817304e3f10d0595.js, line 1: uncaught exception: [object Object]
+JavaScript error: https://www.naturalia.fr/static/version1651738533/_cache/merged/914e8163e89301de66e87fc10cfd03de.min.js line 184 > Function, line 3: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://www.naturalia.fr/static/version1651738533/_cache/merged/914e8163e89301de66e87fc10cfd03de.min.js line 184 > Function, line 3: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://livechat.alc-crm.com/api/v1/polyfills.ce2c817304e3f10d0595.js, line 1: uncaught exception: [object Object]
+JavaScript error: https://www.naturalia.fr/static/version1651738533/_cache/merged/914e8163e89301de66e87fc10cfd03de.min.js line 184 > Function, line 3: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://livechat.alc-crm.com/api/v1/polyfills.ce2c817304e3f10d0595.js, line 1: uncaught exception: [object Object]
+JavaScript error: https://www.naturalia.fr/static/version1651738533/_cache/merged/914e8163e89301de66e87fc10cfd03de.min.js line 184 > Function, line 3: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://www.naturalia.fr/static/version1651738533/_cache/merged/914e8163e89301de66e87fc10cfd03de.min.js line 184 > Function, line 3: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1652865203141	Marionette	INFO	Stopped listening on port 50745
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666521963392	geckodriver	INFO	Listening on 127.0.0.1:64438
+1666521966436	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64439" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\eilon\\AppData\\Local\\Temp\\rust_mozprofileoKu90D"
+1666521968471	geckodriver	INFO	Listening on 127.0.0.1:64446
+1666521971539	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64447" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\eilon\\AppData\\Local\\Temp\\rust_mozprofileo1Ger9"
+1666521974572	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\eilon\\AppData\\Local\\Temp\\rust_mozprofileo1Ger9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64447/devtools/browser/ee3b1dda-88c4-41fa-84a9-1b4127ea6721
+1666521977209	Marionette	INFO	Listening on port 64520
+Read port: 64520
+1666521977301	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1666521981057	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1666522024838	geckodriver	INFO	Listening on 127.0.0.1:64783
+1666522027887	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64784" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\eilon\\AppData\\Local\\Temp\\rust_mozprofilegNQh15"
+1666522028285	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\eilon\\AppData\\Local\\Temp\\rust_mozprofilegNQh15\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64784/devtools/browser/5d63972a-7865-445b-a0dc-fc945c246b3b
+1666522029433	Marionette	INFO	Listening on port 64805
+1666522030655	geckodriver	INFO	Listening on 127.0.0.1:64812
+1666522034127	geckodriver	INFO	Listening on 127.0.0.1:64818
+1666522037192	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64819" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\eilon\\AppData\\Local\\Temp\\rust_mozprofiles0DmgI"
+1666522037484	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\eilon\\AppData\\Local\\Temp\\rust_mozprofiles0DmgI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64819/devtools/browser/e2d266d4-76bd-411f-9891-ce635a37cfb2
+1666522038826	Marionette	INFO	Listening on port 64845
+Read port: 64845
+1666522038950	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1666522051717	geckodriver	INFO	Listening on 127.0.0.1:64948
+1666522054783	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64949" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\eilon\\AppData\\Local\\Temp\\rust_mozprofileW3bWaJ"
+1666522055177	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\eilon\\AppData\\Local\\Temp\\rust_mozprofileW3bWaJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64949/devtools/browser/71c79870-b6ef-4704-9ef1-f605b1f3bbc8
+1666522056443	Marionette	INFO	Listening on port 64983
+Read port: 64983
+1666522056548	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1666522060603	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
